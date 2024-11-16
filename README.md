@@ -83,7 +83,7 @@ Here are some of my notable projects:
 ### 🌐 Let's Connect
 
 - GitHub: [MrSIHAB](https://github.com/MrSIHAB)
-- Portfolio: [SIHAB](https://mrsihab.github.com/portfolio)
+- Portfolio: [SIHAB](https://mrsihab.github.io/portfolio)
 - Twitter: [Shoaib Hossain](https://x.com/ShoaibSihab)
 - LinkedIn: [Shoaib Hossain](https://www.linkedin.com/in/shoaib-hossain/)
 - Facebook: [Shoaib Hossain](https://facebook.com/shoaibhossain55)
