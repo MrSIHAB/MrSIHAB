@@ -41,11 +41,11 @@ Here are some of the key technologies and tools I work with:
 
 Here are some of my notable projects:
 
-| Name                  | Description                                                              | Repo Link                                                 |
-| --------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
-| **EasyKV**            | A lightweight library inspired by Mongoose for working with Deno KV.     | [View Repo](https://github.com/MrSIHAB/easykv)            |
-| **vscode-mathab**     | A VS Code extension for enhancing productivity with tools and shortcuts. | [View Repo](https://github.com/MrSIHAB/vscode-mathab)     |
-| **material-homepage** | A modern responsive homepage built with Material UI and React.           | [View Repo](https://github.com/MrSIHAB/material-homepage) |
+| Name                  | Description                                                          | Repo Link                                                 |
+| --------------------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| **EasyKV**            | A lightweight library inspired by Mongoose for working with Deno KV. | [View Repo](https://github.com/MrSIHAB/easykv)            |
+| **VScode Mathab**     | A light weight VS Code theme for enhancing productivity.             | [View Repo](https://github.com/MrSIHAB/vscode-mathab)     |
+| **Material Homepage** | A modern responsive Chrome homepage/new tab built with Material UI.  | [View Repo](https://github.com/MrSIHAB/material-homepage) |
 
 ---
 
