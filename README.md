@@ -87,13 +87,22 @@ Here are some of my notable projects:
 
 ### 🌐 Let's Connect
 
+[![Twitter](https://img.shields.io/badge/-Twitter-black?logo=x&logoColor=white)](https://x.com/ShoaibSihab)
+[![Hotmail](https://img.shields.io/badge/-Email-purple?logo=gmail&logoColor=white)](mailto://mrsihab@hotmail.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@ShoaibHossain)
+[![Freelancer](https://img.shields.io/badge/-Freelancer-white?logo=freelancer&logoColor=29B2FE)](https://www.freelancer.com/u/sbshoaib)
+[![UpWork](https://img.shields.io/badge/-UpWork-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c7feff653a1e5c5d)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white)](https://facebook.com/shoaibhossain55)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-hossain)
+
+<!--
 - GitHub: [MrSIHAB](https://github.com/MrSIHAB)
 - Portfolio: [SIHAB](https://mrsihab.github.io/portfolio)
 - Twitter: [Shoaib Hossain](https://x.com/ShoaibSihab)
 - LinkedIn: [Shoaib Hossain](https://www.linkedin.com/in/shoaib-hossain/)
 - Facebook: [Shoaib Hossain](https://facebook.com/shoaibhossain55)
 - E-mail: [Hotmail](mailto://mrsihab@hotmail.com)
-
+-->
 ---
 
 <div align="center">
