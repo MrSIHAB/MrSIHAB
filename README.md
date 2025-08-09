@@ -1,6 +1,9 @@
+<div align="center"> 
+  
 # Hello Survivors! 👋
-
 Welcome to my GitHub profile!
+
+</div>
 
 I'm a **Software Engineer** passionate about experimenting with programming and building exciting projects. My expertise spans across:
 
@@ -8,13 +11,14 @@ I'm a **Software Engineer** passionate about experimenting with programming and 
 - 📱 Mobile Development
 - 💻 Desktop Development
 - 🔧 Backend Engineering
+- 🔌 Plugin Development
 
 ---
 
 ### 🚀 About Me
 
 - 🌱 My learning journey covers a wide range:  
-  `C` → `Web` → `Backend` → `Cross Platform` → `Libraies and Frameworks development` → and more!
+  `C` → `Web` → `Backend` → `Cross Platform` → `Libraries and Frameworks development` → and more!
 
 - 🐧 Linux Enthusiast: I use Linux as my primary OS and deeply appreciate its ecosystem.
 
@@ -44,22 +48,22 @@ Here are some of my notable projects:
 | Name                  | Description                                                          | Repo Link                                                 |
 | --------------------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
 | **EasyKV**            | A lightweight library inspired by Mongoose for working with Deno KV. | [View Repo](https://github.com/MrSIHAB/easykv)            |
-| **VScode Mathab**     | A light weight VS Code theme for enhancing productivity.             | [View Repo](https://github.com/MrSIHAB/vscode-mathab)     |
+| **VScode Mathab**     | A lightweight VS Code theme for enhancing productivity.              | [View Repo](https://github.com/MrSIHAB/vscode-mathab)     |
 | **Material Homepage** | A modern responsive Chrome homepage/new tab built with Material UI.  | [View Repo](https://github.com/MrSIHAB/material-homepage) |
 
 ---
 
 ### 🧑‍💻 What I'm Currently Working On
 
-- 🌟 Developing: A Deno package inspired by Mongoose for Deno KV.
-- 🔨 Exploring: Advanced integrations with Flutter and Electron for cross-platform apps.
+- 🌟 Solving: Solving Real-world Problems.
+- 🔨 Exploring: Open Source community and contributing if I can.
 - 🌱 Learning: Collaboration and teamwork in software development.
 
 ---
 
 ### 🎯 Fun Facts
 
-- 🐧 I’ve tried almost every major Linux distribution (and love tinkering with new ones).
+- 🐧 I prefer stability and consistency above all else in technology.
 - 🎵 Music is my constant companion while coding.
 - 🤓 I’m always curious to dive deep into the "why" behind technologies.
 
@@ -67,6 +71,7 @@ Here are some of my notable projects:
 
 ### 📊 GitHub Stats
 
+![Visitor Count](https://komarev.com/ghpvc/?username=mrsihab&color=5b003e&style=flat)
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSIHAB&rank_icon=github&hide_border=true&show_icons=true&title_color=FDEEE9&ring_color=E95420&text_color=FDEEE9&icon_color=77216F&bg_color=2C001E&border_color=77216F&border_radius=25) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSIHAB&layout=compact&hide_border=true&show_icons=true&title_color=FDEEE9&ring_color=E95420&text_color=FDEEE9&icon_color=77216F&bg_color=2C001E&border_color=77216F&border_radius=25) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
