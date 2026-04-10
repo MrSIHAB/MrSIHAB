@@ -28,7 +28,7 @@ I'm a **Software Engineer** passionate about experimenting with programming and 
 
 ### ⚡ Core Skills
 
-![Skills](https://skillicons.dev/icons?i=js,typescript,react,deno,nodejs,express,nextjs,flutter,dart,docker,electron,linux,ubuntu,git&theme=dark)
+![Skills](https://skillicons.dev/icons?i=go,js,ts,react,deno,nodejs,express,nextjs,flutter,dart,docker,electron,linux,ubuntu,git&theme=dark)
 
 Here are some of the key technologies and tools I work with:
 
