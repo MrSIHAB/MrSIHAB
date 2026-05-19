@@ -1,25 +1,117 @@
-# Shoaib Hossain (MrSIHAB) - Portfolio
+<div align="center"> 
+  
+# Hello Survivors! 👋
+Welcome to my GitHub profile!
 
-This is a portfolio website for myself (Shoaib Hossain). This site is made with
-fresh full-stack framework and powered by Deno run time.
+</div>
 
-[![Made with Fresh](https://fresh.deno.dev/fresh-badge-dark.svg)](https://fresh.deno.dev)
+I'm a **Software Engineer** passionate about experimenting with programming and building exciting projects. My expertise spans across:
 
-<a
-href="https://sihab.deno.dev"
-style="
-background:#00FFD4;
-padding: 15px 55px;
-border-radius: 55px 55px 15px;
-border: none;
-outline:none;
-font-size: 22px;
-font-weight: bold;
-margin:auto;
-display:block;
-width:min-content;
-color:black;
-"> Preview
-</a>
+- 🌐 Web Development
+- 📱 Mobile Development
+- 💻 Desktop Development
+- 🔧 Backend Engineering
+- 🔌 Plugin Development
 
-![Full Screen Shot](static/screenshots/ss-full.png)
+---
+
+### 🚀 About Me
+
+- 🌱 My learning journey covers a wide range:  
+  `C` → `Web` → `Backend` → `Cross Platform` → `Libraries and Frameworks development` → and more!
+
+- 🐧 Linux Enthusiast: I use Linux as my primary OS and deeply appreciate its ecosystem.
+
+- ✨ I love making things simpler and sharing solutions with others.
+
+---
+
+### ⚡ Core Skills
+
+![Skills](https://skillicons.dev/icons?i=go,js,ts,react,deno,nodejs,express,nextjs,flutter,dart,docker,electron,linux,ubuntu,git&theme=dark)
+
+Here are some of the key technologies and tools I work with:
+
+- **Languages**: C, JavaScript, TypeScript, Dart
+- **Frontend Frameworks**: React
+- **Backend**: Node, Deno, Express, Hono
+- **Full-Stack Tools**: NextJS, Fresh
+- **Cross-Platform Development**: Flutter, Electron, React Native
+- **Others**: NPM, Yarn, **Linux(Ubuntu)**
+
+---
+
+### 🛠 Projects
+
+Here are some of my notable projects:
+
+| Name                  | Description                                                          | Repo Link                                                 |
+| --------------------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| **EasyKV**            | A lightweight library inspired by Mongoose for working with Deno KV. | [View Repo](https://github.com/MrSIHAB/easykv)            |
+| **VScode Mathab**     | A lightweight VS Code theme for enhancing productivity.              | [View Repo](https://github.com/MrSIHAB/vscode-mathab)     |
+| **Material Homepage** | A modern responsive Chrome homepage/new tab built with Material UI.  | [View Repo](https://github.com/MrSIHAB/material-homepage) |
+
+---
+
+### 🧑‍💻 What I'm Currently Working On
+
+- 🌟 Solving: Solving Real-world Problems.
+- 🔨 Exploring: Open Source community and contributing if I can.
+- 🌱 Learning: Collaboration and teamwork in software development.
+
+---
+
+### 🎯 Fun Facts
+
+- 🐧 I prefer stability and consistency above all else in technology.
+- 🎵 Music is my constant companion while coding.
+- 🤓 I’m always curious to dive deep into the "why" behind technologies.
+
+---
+
+### 📊 GitHub Stats
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mrsihab&color=5b003e&style=flat)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSIHAB&rank_icon=github&hide_border=true&show_icons=true&title_color=FDEEE9&ring_color=E95420&text_color=FDEEE9&icon_color=77216F&bg_color=2C001E&border_color=77216F&border_radius=25) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSIHAB&layout=compact&hide_border=true&show_icons=true&title_color=FDEEE9&ring_color=E95420&text_color=FDEEE9&icon_color=77216F&bg_color=2C001E&border_color=77216F&border_radius=25) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+---
+
+### 💡 What I Love Doing
+
+- 🔍 Exploring new projects and technologies.
+- 🛠 Building tools and libraries that simplify workflows.
+- 🌟 Learning, sharing, and growing with the developer community.
+
+---
+
+### 🌐 Let's Connect
+
+[![Web](https://img.shields.io/badge/-Website-black?logo=fresh&logoColor=)](https://sihab.deno.dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?logo=x&logoColor=white)](https://x.com/ShoaibSihab)
+[![Hotmail](https://img.shields.io/badge/-Email-purple?logo=gmail&logoColor=white)](mailto://mrsihab@hotmail.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@ShoaibHossain)
+[![Freelancer](https://img.shields.io/badge/-Freelancer-white?logo=freelancer&logoColor=29B2FE)](https://www.freelancer.com/u/sbshoaib)
+[![UpWork](https://img.shields.io/badge/-UpWork-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c7feff653a1e5c5d)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white)](https://facebook.com/MrSIHAB.H)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-hossain)
+
+<!--
+- GitHub: [MrSIHAB](https://github.com/MrSIHAB)
+- Portfolio: [SIHAB](https://mrsihab.github.io/portfolio)
+- Twitter: [Shoaib Hossain](https://x.com/ShoaibSihab)
+- LinkedIn: [Shoaib Hossain](https://www.linkedin.com/in/shoaib-hossain/)
+- Facebook: [Shoaib Hossain](https://facebook.com/shoaibhossain55)
+- E-mail: [Hotmail](mailto://mrsihab@hotmail.com)
+-->
+---
+
+<div align="center">
+
+### 💖 **Support My Work**
+
+If you like what I do, consider starring my repos or supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/MrSIHAB)
+
+</div>
