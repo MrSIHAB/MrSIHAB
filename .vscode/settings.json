@@ -14,15 +14,19 @@
   "[javascript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
-  "css.customData": [
-    ".vscode/tailwind.json"
-  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "[tailwindcss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "cSpell.words": [
-    "Cryptora",
-    "danbo",
-    "easykv",
+    "Danbo",
     "Hossain",
     "Shoaib",
     "SIHAB"
-  ]
+  ],
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
 }

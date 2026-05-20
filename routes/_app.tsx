@@ -1,5 +1,4 @@
-import { type PageProps } from "$fresh/server.ts";
-import DanboPet from "../islands/Danbo.tsx";
+import { PageProps } from "fresh";
 import ParticlesBackground from "../islands/ParticlesBackground.tsx";
 
 export default function App({ Component }: PageProps) {
@@ -26,7 +25,7 @@ export default function App({ Component }: PageProps) {
         <link
           rel="preconnect"
           href="https://fonts.gstatic.com"
-          crossorigin="true"
+          crossorigin="anonymous"
         />
         <link
           href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap"
@@ -63,12 +62,11 @@ export default function App({ Component }: PageProps) {
 
         {/* Other titles */}
         <title>MrSIHAB | Shoaib Hossain</title>
-        <link rel="stylesheet" href="/styles.css" />
       </head>
       <body>
         <div className={`${currentTheme} bg-no-repeat min-h-screen font-arimo`}>
           <ParticlesBackground />
-          <DanboPet />
+          {/* <DanboPet /> */}
           <Component />
         </div>
       </body>

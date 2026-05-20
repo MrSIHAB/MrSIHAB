@@ -5,7 +5,7 @@ export default function DeploymentSection() {
   return (
     <HeroSection
       imageUrl="/images/hosting-banner.png"
-      heading="Deployment & Hosting"
+      heading="Deployment and Hosting"
       icon="/images/tech/docker.png"
       floatingIcon="/images/tech/ubuntu.png"
       fip="left"

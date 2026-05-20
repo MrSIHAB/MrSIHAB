@@ -1,4 +1,4 @@
-import { ExternalLink, Github } from "lucide-preact";
+import { ExternalLink } from "lucide-preact";
 import ScrollReveal from "../../islands/ScrollReveal.tsx";
 import { projects } from "../../lib/static-data/projects.ts";
 

@@ -1,7 +1,7 @@
-import { FreelancerSvg } from "../../components/svg/Social.tsx";
-import { ExternalLink, Github } from "lucide-preact";
+import { FreelancerSvg, GithubSvg } from "../../components/svg/Social.tsx";
+import { ExternalLink } from "lucide-preact";
 import { DenoSvg, vsCodeSvg } from "../../components/svg/Programming.tsx";
-import { PageProps } from "$fresh/server.ts";
+import { PageProps } from "fresh";
 
 /** Portfolio Project's Schema Definitions */
 export type Component = PageProps["Component"];
@@ -56,7 +56,7 @@ export const projects: Project[] = [
     image: "vist.png",
     type: ["Plugin", "Web"],
     link: "https://bit.ly/material-homepage",
-    action: ExternalLink as Component,
+    action: ExternalLink,
   },
   {
     title: "Portfolio (HTML, CSS, JS only)",
@@ -64,7 +64,7 @@ export const projects: Project[] = [
     image: "portfolio.old.png",
     type: ["Web"],
     link: "https://mrsihab.github.io/portfolio",
-    action: ExternalLink as Component,
+    action: ExternalLink,
   },
   {
     title: "Mathab Theme",
@@ -80,7 +80,7 @@ export const projects: Project[] = [
     description: "ODM-like wrapper around Deno KV with Mongoose-style API.",
     type: ["Dev Tools"],
     link: "https://jsr.io/@easykv/easykv",
-    action: DenoSvg as Component,
+    action: DenoSvg,
   },
   {
     title: "Favicon Fetcher",
@@ -89,6 +89,6 @@ export const projects: Project[] = [
     image: "favicon-fetcher.png",
     type: ["Dev Tools", "Backend"],
     link: "https://github.com/mrsihab/favicon-fetcher",
-    action: Github as Component,
+    action: GithubSvg,
   },
 ];

@@ -193,8 +193,9 @@ export const ShortDescription = () => {
       So, it turns out who am I? A frontend developer? Backend developer? Mobile
       or desktop developer? Full-stack? Plugin developer? Programmer? Software
       engineer? Or just a coder? In my opinion…
-      <span class="text-nowrap font-semibold">I am Shoaib Hossain</span>. You
-      can call me <mark>SIHAB</mark>.
+      <span class="text-nowrap font-semibold">
+        I am Shoaib Hossain. You can call me SIHAB
+      </span>.
       <br />
       <br />
 
@@ -215,9 +216,7 @@ export const ShortDescription = () => {
       <br />
 
       No matter what you’re searching for, my final response is simple:
-      <mark>
-        <del>I use Arch BTW</del>. I use Ubuntu BTW.
-      </mark>
+      <mark>I use Ubuntu BTW.</mark>
     </p>
   );
 };

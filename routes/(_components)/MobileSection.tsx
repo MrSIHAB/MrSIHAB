@@ -2,14 +2,14 @@ import HeroSection from "../../components/HeroSection.tsx";
 
 export default function AndroidSection() {
   const info = {
-    header: `Mobile Development | Android & iOS`,
+    header: `Mobile Development | Android and iOS`,
     code: `MaterialApp(\n  title: 'My App',\n  home: HomePage(),\n);`,
     image: "/images/projects/cryptora.png",
   };
 
   return (
     <HeroSection
-      heading={info.header}
+      heading={info.header.toString()}
       imageUrl={info.image}
       code={info.code}
       icon="/images/tech/flutter.png"

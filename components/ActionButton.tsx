@@ -1,4 +1,6 @@
-import { JSX } from "preact/src/index.d.ts";
+// @ts-types="preact/compat/jsx-dev-runtime"
+import { JSX } from "preact/jsx-dev-runtime";
+
 
 export function ActionButton(
   profs: JSX.HTMLAttributes<HTMLButtonElement>,

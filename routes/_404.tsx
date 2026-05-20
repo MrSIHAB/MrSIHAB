@@ -1,4 +1,5 @@
-import { Head } from "$fresh/runtime.ts";
+import { Head } from "fresh/runtime";
+
 
 export default function Error404() {
   return (
