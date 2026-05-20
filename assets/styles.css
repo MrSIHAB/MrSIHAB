@@ -23,7 +23,8 @@
     padding-block: 1.75rem;
     backdrop-filter: blur(4px);
     --webkit-backdrop-filter: blur(4px);
-    border: 2px solid color-mix(in srgb, var(--color-primary) 0.25, transparent);
+    border: 2px solid
+      color-mix(in srgb, var(--color-primary) 0.25, transparent);
     border-radius: 1rem;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7);
   }
@@ -38,7 +39,8 @@
     position: relative;
     overflow: hidden;
     border-radius: 1rem;
-    border: 1px solid color-mix(in srgb, var(--color-primary) 0.55, transparent);
+    border: 1px solid
+      color-mix(in srgb, var(--color-primary) 0.55, transparent);
     background-image: linear-gradient(to bottom, transparent, transparent);
     backdrop-filter: blur(16px);
     padding: 1.25rem;
@@ -57,7 +59,8 @@
   .portfolio-card {
     box-shadow: 0 20px 25px -5px
       color-mix(in srgb, var(--color-card) 55%, transparent);
-    border: 1px solid color-mix(in srgb, var(--color-primary) 0.55, transparent);
+    border: 1px solid
+      color-mix(in srgb, var(--color-primary) 0.55, transparent);
     background-image: linear-gradient(
       to bottom,
       color-mix(in srgb, var(--color-primary) 15%, transparent),

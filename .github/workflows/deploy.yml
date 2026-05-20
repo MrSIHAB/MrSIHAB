@@ -32,5 +32,3 @@ jobs:
           project: "sihab"
           entrypoint: "main.ts"
           root: "."
-          
-          
