@@ -12,11 +12,11 @@ export function OpenEmailButton() {
       onClick={() => globalThis.open(emailUrl)}
     >
       <div class="flex align-middle justify-between">
-        <div class="w-[28px]">
+        <div class="w-7">
           {LucideMails({})}
         </div>
         <span class="font-bold ">Get in Touch</span>
-        <div class="w-[28px]">{/* Dummy Div for center align */}</div>
+        <div class="w-7">{/* Dummy Div for center align */}</div>
       </div>
     </ActionButton>
   );

@@ -21,7 +21,7 @@ export default function ProjectCard({ project }: { project: Project }) {
       <img
         src={project.image}
         alt={project.title}
-        class="rounded-md w-full aspect-[7/5] object-cover"
+        class="rounded-md w-full aspect-7/5 object-cover"
       />
 
       {/* Hover Info */}

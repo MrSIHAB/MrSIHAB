@@ -36,7 +36,7 @@ export default function ProfileCard() {
             <span class="text-primary  text-5xl">
               Shoaib Hossain
             </span>{" "}
-            <span class="text-2xl bg-gradient-to-r from-purple-300 to-purple-400 bg-clip-text text-transparent">
+            <span class="text-2xl bg-linear-to-r from-purple-300 to-purple-400 bg-clip-text text-transparent">
               MrSIHAB
             </span>
           </div>

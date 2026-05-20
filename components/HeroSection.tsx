@@ -52,7 +52,7 @@ export default function HeroSection(
           // Floating Icon
           <img
             src={floatingIcon}
-            class={`absolute top-[-15px] ${position} w-[55px] -rotate-12 z-20`}
+            class={`absolute -top-3.75 ${position} w-13.75 -rotate-12 z-20`}
           />
         )}
         {/* bg image */}

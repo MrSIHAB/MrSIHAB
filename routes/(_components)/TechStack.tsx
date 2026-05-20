@@ -17,8 +17,8 @@ export default function TechStack() {
             class="flex items-center justify-start backdrop-blur-sm"
             key={brand.name}
           >
-            <div class="bg-gradient-to-r from-primary/20 to-accent/10 rounded-xl px-3 sm:px-5 py-1 sm:py-3
-            shadow-md flex items-center gap-1 sm:gap-4 min-w-[55px]">
+            <div class="bg-linear-to-r from-primary/20 to-accent/10 rounded-xl px-3 sm:px-5 py-1 sm:py-3
+            shadow-md flex items-center gap-1 sm:gap-4 min-w-13.75">
               {/* Optionally add an icon here if available: <img src={brand.icon} alt={brand.name} class="w-8 h-8" /> */}
               <div class="skill-tag w-5 drop-shadow-sm fill-cyan-200">
                 <brand.icon />

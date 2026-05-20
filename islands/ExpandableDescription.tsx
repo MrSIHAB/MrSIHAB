@@ -9,7 +9,7 @@ export default function ExpandableDescription(
       {/* hide scrollbar for this div  */}
       <div
         class={`transition-all duration-300 scroll-smooth overflow-y-scroll scrollbar-hide ${
-          expanded.value ? "max-h-[550px]" : "max-h-[255px]"
+          expanded.value ? "max-h-137.5" : "max-h-63.75"
         }`}
       >
         <ShortDescription />

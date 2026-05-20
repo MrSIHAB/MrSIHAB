@@ -1,6 +1,5 @@
 import { Head } from "fresh/runtime";
 
-
 export default function Error404() {
   return (
     <>
@@ -8,12 +7,12 @@ export default function Error404() {
         <title>404 - Page not found</title>
       </Head>
       <div
-        class="px-4 py-8 h-screen bg-gradient-to-br flex align-middle justify-items-center"
+        class="px-4 py-8 h-screen bg-linear-to-br flex align-middle justify-items-center"
         style={{
           background: "linear-gradient(159deg, #9fd, #d9f)",
         }}
       >
-        <div class="max-w-screen-md mx-auto flex flex-col items-center justify-center">
+        <div class="max-w-3xl mx-auto flex flex-col items-center justify-center">
           {/* 404 text  */}
           <h1 class="text-5xl font-bold">
             <span>404</span>
